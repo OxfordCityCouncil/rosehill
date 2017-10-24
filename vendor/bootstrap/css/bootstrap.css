@@ -908,6 +908,11 @@ pre code {
     -ms-flex-positive: 1;
         flex-grow: 1;
     max-width: 100%;
+    border-style: solid;
+  padding: 5px;
+  border-radius: 25px;
+  background-color: lightblue;
+    
   }
   .col-sm-auto {
     -ms-flex: 0 0 auto;
