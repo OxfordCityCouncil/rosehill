@@ -912,6 +912,7 @@ pre code {
   padding: 5px;
   margin: 5px;
   border-radius: 25px;
+  border-width: 1px;
   background-color: lightblue;
     
   }
